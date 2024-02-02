@@ -1,0 +1,48 @@
+.environment_section {
+    padding: 96px 0 104px 0;
+    background-color: rgba(239, 247, 242, 1);
+}
+
+.environment_title {
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.forGap {
+    gap: 64px;
+    margin-top: 64px;
+    flex-wrap: wrap;
+}
+
+.environment_card {
+    width: 384px;
+    display: flex;
+    height: 102px;
+    gap: 24px;
+}
+
+.environment_card_title {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.environment_card_text {
+    font-family: 'Roboto';
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 22px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(82, 85, 96, 1);
+    margin-top: 8px;
+}

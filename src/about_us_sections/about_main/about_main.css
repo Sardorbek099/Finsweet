@@ -1,0 +1,49 @@
+.about_main_section {
+    background-color: rgba(239, 247, 242, 1);
+    padding: 320px 0px 96px 0;
+    position: relative;
+}
+
+.about_main_section .about_main_video {
+    width: 1280px;
+    position: absolute;
+    height: 448px;
+    top: -224px;
+    left: 55px;
+    border-radius: 12px
+}
+
+.about_main_gap {
+    gap: 96px;
+    margin: 0px 96px 96px 96px;
+}
+
+.gapForMain{
+    gap: 96.79px;
+    margin-top: 48px;
+}
+.about_main_col {
+    width: 496px;
+}
+
+.about_main_title {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+    text-transform: uppercase;
+}
+
+.about_main_description {
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+    margin: 16px 0 8px 0;
+}

@@ -1,0 +1,54 @@
+.whatwedohero_section {
+    padding: 96px 0;
+}
+
+.whatwedohero_col1 {
+    width: 690px;
+}
+
+.whatwedohero_line {
+    width: 72px;
+    height: 0px;
+    border: 2px solid rgba(29, 33, 48, 1);
+}
+
+.whatwedohero_title {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+    text-transform: uppercase;
+    margin-left: 24px;
+}
+
+.whatwedohero_texts {
+    margin: 32px 0 0 96px;
+}
+
+.whatwedohero_description {
+    font-family: 'Roboto';
+    font-size: 56px;
+    font-weight: 700;
+    line-height: 67px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.whatwedohero_short_description {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(82, 85, 96, 1);
+    margin-top: 34px;
+}
+
+.whatwedohero_col2{
+    width: 480px;
+}

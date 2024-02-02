@@ -1,0 +1,68 @@
+.journey_section {
+    padding: 64px 0 64px 96px;
+    background-color: rgba(11, 7, 6, 1);
+    border-radius: 12px;
+}
+
+.journey_col1 {
+    width: 489px;
+}
+
+.journey_title {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 64px;
+}
+
+.journey_text {
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin: 16px 0;
+}
+
+.journey_short_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    opacity: 0.6;
+    color: rgba(255, 255, 255, 1);
+    margin: 16px 0 32px 0;
+}
+
+.forJounrneyGap {
+    gap: 32px;
+}
+
+.journey_count {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+}
+
+.journey_subscriber {
+    font-family: Roboto;
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: left;
+    opacity: 0.6;
+    color: rgba(255, 255, 255, 1);
+}

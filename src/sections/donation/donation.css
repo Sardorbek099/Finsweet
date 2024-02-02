@@ -1,0 +1,74 @@
+.donation_section {
+    background-color: rgba(11, 7, 6, 1);
+    padding: 96px 0;
+}
+
+.donation_col1 {
+    width: 611px;
+}
+
+.donation_title {
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin-top: 46px;
+}
+
+.donation_description {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    opacity: 0.6;
+    color: rgba(255, 255, 255, 1);
+    margin: 16px 0 32px 0;
+}
+
+.donation_stastics {
+    display: inline-flex;
+    flex-wrap: wrap;
+    gap: 24px;
+}
+
+.donation_block {
+    width: 16px;
+    height: 16px;
+    border-radius: 4px;
+}
+
+.donation_green {
+    background-color: rgba(190, 243, 192, 1);
+}
+
+.donation_blue {
+    background-color: rgba(172, 148, 241, 1);
+}
+
+.donation_warning {
+    background-color: rgba(255, 240, 202, 1);
+}
+
+.donation_yellow {
+    background-color: rgba(249, 207, 100, 1);
+}
+
+.donation_pink {
+    background-color: rgba(243, 143, 191, 1);
+}
+
+.donation_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: rgba(255, 255, 255, 1);
+    margin-left: 8px;
+}

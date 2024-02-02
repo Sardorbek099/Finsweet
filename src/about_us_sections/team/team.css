@@ -1,0 +1,70 @@
+.team_section {
+    margin: 96px 0;
+}
+
+.team_title {
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(29, 33, 48, 1);
+}
+
+.team_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: center;
+    opacity: 0.6;
+    color: rgba(29, 33, 48, 1);
+    margin-top: 16px;
+
+}
+
+.forTeamGap {
+    flex-wrap: wrap;
+    gap: 32px;
+    margin-top: 48px;
+}
+
+.team_col {
+    width: 296px;
+}
+
+.team_card_title {
+    font-family: 'Roboto';
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(29, 33, 48, 1);
+    margin-top: 16px;
+}
+
+
+.team_card_text {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0px;
+    text-align: center;
+    opacity: 0.6;
+    margin: 8px 0 16px 0;
+}
+
+.forLogos{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+}
+
+.forLogos img{
+    width: 20px;
+    height: 20px;
+}

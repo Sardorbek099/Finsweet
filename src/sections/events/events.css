@@ -1,0 +1,88 @@
+.events_section {
+    margin: 96px 0;
+}
+
+.events_gap{
+    gap: 24px;
+}
+.events_title {
+    font-family: 'Roboto';
+    font-size: 40px;
+    font-weight: 500;
+    line-height: 56px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.events_line {
+    width: 1060px;
+    height: 0px;
+    border: 1px solid rgba(229, 229, 229, 1);
+    margin-left: 24px;
+}
+
+.events_col {
+    width: 628px;
+    display: inline-flex;
+    background-color: rgba(190, 243, 192, 1);
+    border-radius: 8px;
+    padding: 32px 48px 40px 40px;
+    gap: 24px;
+    margin-top: 48px;
+}
+
+.events_date {
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 500;
+    line-height: 50px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.events_month {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.events_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 2px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+    text-transform: uppercase;
+}
+
+.events_card_line {
+    width: 44px;
+    height: 0px;
+    border: 2px solid rgba(29, 33, 48, 1);
+    margin-left: 23px;
+}
+
+.events_short_text {
+    font-family: 'Roboto';
+    font-size: 28px;
+    font-weight: 700;
+    line-height: 42px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+    margin-top: 8px;
+}
+
+.events_col img{
+    margin-top: 24px;
+    width: 56px;
+    height: 56px;
+}

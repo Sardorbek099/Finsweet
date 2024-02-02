@@ -1,0 +1,67 @@
+.awards_section {
+    padding: 96px 0;
+}
+
+.awards_title {
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: center;
+    color: rgba(29, 33, 48, 1);
+}
+
+.forMargin{
+    gap: 208px;
+    margin: 48px 90.75px 0 90px;
+}
+
+.awards_col1 {
+    width: 120px;
+}
+
+.awards_col2 {
+    width: 111px;
+}
+
+.awards_col3 {
+    width: 111px;
+}
+
+.awards_col4 {
+    width: 133px;
+}
+
+.awards_card_year {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 38px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(29, 33, 48, 1);
+    margin-top: 16px;
+}
+
+.awards_card_title {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 26px;
+    letter-spacing: 0em;
+    text-align: center;
+    color: rgba(29, 33, 48, 1);
+    margin: 4px 0;
+}
+
+.awards_card_text {
+    font-family: 'Roboto';
+    font-size: 12px;
+    font-weight: 500;
+    line-height: 19px;
+    letter-spacing: 0em;
+    text-align: center;
+    opacity: 0.6;
+    color: rgba(29, 33, 48, 1);
+}

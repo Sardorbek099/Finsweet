@@ -1,0 +1,114 @@
+.whatwedo_section {
+    background-color: rgba(239, 247, 242, 1);
+    padding: 96px 0 32px 0;
+}
+
+.whatwedo_col1 {
+    width: 704px;
+}
+
+.whatwedo_line {
+    width: 72px;
+    height: 1px;
+    border: 2px solid rgba(29, 33, 48, 1);
+    background-color: rgba(29, 33, 48, 1);
+}
+
+.whatwedo_title {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 700;
+    line-height: 19px;
+    letter-spacing: 2px;
+    text-align: left;
+    text-transform: uppercase;
+    color: rgba(29, 33, 48, 1);
+    margin-left: 24px;
+}
+
+.whatwedo_texts {
+    margin: 32px 0px 32px 96px;
+}
+
+.whatwedo_short_descripton {
+    font-family: 'Roboto';
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 58px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.whatwedo_descripton {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(82, 85, 96, 1);
+    margin-top: 16px;
+}
+
+.card_section {
+    margin-left: 96px;
+}
+
+/* .whatwedo_line2 {
+    width: 1px;
+    height: 441px;
+    border: 1px solid rgba(229, 229, 229, 1);
+    transform: rotate(180deg);
+} */
+
+.whatwedo_cards {
+    display: flex;
+    flex-direction: column;
+    margin-left: 24px;
+    gap: 24px;
+}
+
+.whatwedocard{
+    display: inline-flex;
+    gap: 24px;
+}
+
+.whatwedocard img {
+    width: 28px;
+    height: 24px;
+}
+
+.whatwedo_card_title {
+    font-family: 'Roboto';
+    font-size: 24px;
+    font-weight: 700;
+    line-height: 28px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(29, 33, 48, 1);
+}
+
+.whatwedo_card_text {
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0px;
+    text-align: left;
+    color: rgba(82, 85, 96, 1);
+    margin-top: 8px;
+}
+
+.whatwedo_col2{
+    width: 480px;
+}
+
+.whatwedo_col2 img{
+    width: 100%;
+    margin-top: 32px;
+}
+
+.whatwedo_gap{
+    gap: 96px;
+}

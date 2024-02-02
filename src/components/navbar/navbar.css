@@ -1,0 +1,51 @@
+.navbar_section {
+    padding: 20px;
+}
+
+.big_div{
+    align-items: center;
+}
+
+.forLogo img {
+    width: 130px;
+    height: 26.329px;
+}
+
+.forItems {
+    display:flex;
+    align-items: center;
+    gap: 22px;
+}
+
+.navbar {
+    display:flex;
+    list-style-type: none;
+    margin: 0px 21px;
+    gap: 40px;
+    justify-content: center;
+}
+
+.navbar_item_link {
+    color: rgba(82, 85, 96, 1);
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+    text-decoration: none;
+}
+
+.navbar_button {
+    padding: 12px 32px;
+    background-color: rgba(29, 33, 48, 1);
+    color: rgba(255, 255, 255, 1);
+    border: none;
+    border-radius: 4px;
+    color: #FFF;
+    text-align: right;
+    font-family: 'Roboto';
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: normal;
+}
